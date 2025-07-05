@@ -1,0 +1,14 @@
+MeshInstance3D
+Label
+CollisionShape3D
+Sprite3D
+VBoxContainer
+MarginContainer
+ProgressBar
+SubViewport
+Control
+Node3D
+CanvasLayer
+Label3D
+Node
+Button
